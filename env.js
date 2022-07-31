@@ -1,0 +1,12 @@
+export const dialogflowConfig = {
+    "type": "service_account",
+    "project_id": "mybot-epxi",
+    "private_key_id": "b2317affce8f47e548009fd0fca49f80a4d5a639",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCufmjmLUe5d+m9\nN4657ETVDuwvsKL8fLUqzrT+x0/bhuzIr4Pc32KtNWshgMGap/84FRrrk9WT2n8W\nst8V2g/Jz4L0kw82++PwGzkg1ethdR8N1mCe3fbbhl5VE1pmAEF/xP8rKUer7Ntr\nVn/U/1Ba2vJivgGNUhZzRMxs5DXXhKPa5ifDFTNYRJY8jlzkZocuvH/x8ilqx67b\nSRaK5+RU+VrGggQjxK46x4fUw1z9F5ug5PLIXdaTdX5G2pIAK+q/IUNrO2S7a9BC\nBZltVT8wVVUopjf+YNF3O5WPd0Dj5gc6Ec6dg38utya1i2c/KXS2Jxp1KaEOxwHf\nFunm/Y7HAgMBAAECggEAOK9kEHJhPIUR76Aew5NXgQdJ/uwY5oD0saVY8vN4o84f\nGcq6wYPoIHCcDtQvELjGlkd06VarKU7vvkX5ZrXiLyM0XZNwe+I0WAnf8yTLRGux\n3OLpnHJrAUGTX3vcAArRPFqYskLEv7tARIxjFqSiTAGYgC9NfcVO+b890ZoJS6uH\nRXptKVhs9JQwaZL86BKF+VCHBEFsD7IsK0ccH0yFG6rAC4lYl3r3h1UMaa4FjNzM\nJJQUqgwnDa2OmxsWB6qbYOy99au+NbfGqhWt41bmf5d5cwLKdM4uVPftKxut0zJz\n5LPG412DKHS7OdDt2H+1hwM8jUrzOvU7f3H4LlkSsQKBgQDofOXdOqyL5Q+zFXKj\nrxgfngoOPyl5o3VoPOp0Yg+4EHURE4ANZibBQlyxbD1iWyQOYv8dQL3GiaV9O8FA\ntlEdcwwDqHtyBYYyDGAgI/H69NFdP/rkQ2w5Lttbk4UfaHK2V4MO+8IdhWIOm5kG\n2EEA5cWuILlFKKvgXWKZzf9A8wKBgQDAJAwLGD/735rj/1CNkiRFObTSLEYAWlRG\nBiYsiB5FOmTV4GUp7kXlDgGaU1TCouKVz4jxR9Z++kstylCj6Up45DDGPKgwc05M\nTQSKCVYQz2RnXpPvFzkk+oz60ccrF1sV7WhY9B4uAUGeT7fYgkHE/oVnzWL1HXwj\nckuh+urP3QKBgDOYBCskakZhfypvCBHrOZ9Ko1CmE7462ENZwW4ylOp0PIadnT1b\n/h3FbGyzaKv7LfVDYvpK89KrmV5BdJG35Ch076WgLkUPlMhmlq6LS5g13IClQjiF\n/e5yx5t7EX/23f45TYx1so56m1hCj6NFOqfIViZefL8sV3hjQQ6A+LShAoGAbxmo\n2RV5keOWxXURF/tD+79FXi35gCS7DA5sLl262x7LxZvOAzPiuHKj3J+IqE7VI/jv\n30xBrASASgbtIAo6ZLLVvRq/ydwyjw4NrN9/I5M4JElc0ugjw80YjcOVHcaQhZpU\nNvNZLBLP5YGE9a1D6Gufqgjpyn/1Eu34672R3wUCgYA66w/IgWIATNUMK7L2JSxh\nZ2iI2CpNDAnFOXrOHllBsy/gjl4oD++bdfrwfbq6/QPtllBeUK6mPN0csx/gBgkR\nqiJsvx9tnGLZf99Uv/UsL1K+zI3kmOxEa72BhuaM9p4POIBa9vDlf8NK0wh4Bsjs\nyUrm9Bi3bQSKxr2xW0DT5A==\n-----END PRIVATE KEY-----\n",
+    "client_email": "mybot-15@mybot-epxi.iam.gserviceaccount.com",
+    "client_id": "116417197457353467147",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mybot-15%40mybot-epxi.iam.gserviceaccount.com"
+  };
